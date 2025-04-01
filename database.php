@@ -1,5 +1,5 @@
 <?php
-class DB {
+class Database {
     private $host = "localhost"; // Địa chỉ máy chủ
     private $db_name = "qlbanhang"; // Tên cơ sở dữ liệu
     private $username = "root"; // Tên người dùng
